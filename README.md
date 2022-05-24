@@ -1,11 +1,13 @@
 ### 👋 Oii, sou a Rafaela Bustamante!
 
 <div>
-🎲 Meus interesses são video-game, cinema, futsal, música e programação!
+<p><br>
+  🚀 Cadete na 42 São Paulo<br>
   
-🌱 Atualmente aprendendo C e C++
-</div>
-
+  🎲 Meus interesses são video-game, cinema, futsal, música e programação!<br>
+  
+  🌱 Atualmente aprendendo C e C++</p>
+  
 ##
 
 <div align="left">
