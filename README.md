@@ -1,6 +1,6 @@
 ### 👋 Oii, sou a Rafaela Bustamante!
-- 🎲 Meus interesses são video-game, cinema, futsal, música e programação!
-- 🌱 Atualmente aprendendo C e C++
+🎲 Meus interesses são video-game, cinema, futsal, música e programação!
+🌱 Atualmente aprendendo C e C++
 
 ##
 
