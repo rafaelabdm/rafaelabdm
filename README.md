@@ -2,8 +2,6 @@
 
 <div>
 <p><br>
-  🚀 Cadete na 42 São Paulo<br>
-  
   🎲 Meus interesses são video-game, cinema, futsal, música e programação!<br>
   
   🌱 Atualmente aprendendo C e C++</p>
