@@ -4,7 +4,7 @@
 <p><br>
   🎲 Meus interesses são video-game, cinema, futsal, música e programação!<br>
   
-  🌱 Atualmente aprendendo C e C++</p>
+  🌱 Atualmente aprendendo C e Javascript</p>
   
 ##
 
