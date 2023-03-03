@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Rafaela Bustamante</h1>
 
-- 🔭 I’m currently working on **Philosophers**
+- 🔭 I’m currently working on **my courses at 42 São Paulo and Ada**
 
 - 🌱 I’m currently learning **C, Javascript + Express**
 
