@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Rafaela Bustamante</h1>
 
-- 🔭 I’m currently working on **my courses at 42 São Paulo and Ada**
+- 🔭 I’m currently studing at **42 São Paulo**
 
-- 🌱 I’m currently learning **C, Javascript + Express**
+- 🌱 I’m currently learning **C++, Docker, Python**
 
 - 💬 Ask me about **Movies, Games and C**
 
