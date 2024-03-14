@@ -12,6 +12,8 @@ free to ask me about this topics anytime! 😊
 
 <div style="display: flex" align="left">
 
+<img style="display: flex;" align="right" alt="HumanCoder" src="https://github.com/rafaelabdm/rafaelabdm/assets/102771790/b8593156-d6a7-4501-a8b5-6505ff353793">
+
 <h4>How I started:</h4>
 <img alt="Linux" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
 <img alt="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
