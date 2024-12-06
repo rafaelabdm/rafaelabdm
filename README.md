@@ -1,9 +1,8 @@
 <h1 align="left">Hi 👋, I'm Rafaela Bustamante</h1>
 
 ### About Me
-I completed the Common Core program at 42 São Paulo in Dec/2023. This journey gave me a solid knowledge base at the fundamentals of software engineering and programming;
-I'm currently working with Web Develpment using Python/Django and learning about AWS Services on my free time. I love movies, games, soccer and programming, so please feel
-free to ask me about this topics anytime! 😊
+I completed the Common Core program at 42 São Paulo in Dec/2023. This journey gave me a solid base/low level knowledge at the fundamentals of software engineering and programming;
+I'm currently working with Web Develpment using Python/Django and learning about AWS Services on my free time. I love movies, games, soccer and programming, so please feel free to ask me about this topics anytime! 😊
 
 ##
 
